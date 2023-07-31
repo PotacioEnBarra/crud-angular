@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "crud-angular-99eb8"
+  },
+  "targets": {
+    "crud-angular-99eb8": {
+      "hosting": {
+        "crud-angular": [
+          "crud-angular-99eb8"
+        ]
+      }
+    }
+  }
+}
